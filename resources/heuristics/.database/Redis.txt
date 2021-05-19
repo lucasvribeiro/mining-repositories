@@ -1,0 +1,2 @@
+\b[Rr]edis\b
+\bjedis\b

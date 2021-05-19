@@ -1,0 +1,2 @@
+\b[Cc]ouchbase\b
+\bgocb\b

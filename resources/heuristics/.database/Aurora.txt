@@ -1,0 +1,2 @@
+\b[Aa]urora\b
+\bcom\.amazonaws\b

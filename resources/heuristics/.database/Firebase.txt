@@ -1,0 +1,2 @@
+\b[Ff]irebase\b
+\bpyrebase\b

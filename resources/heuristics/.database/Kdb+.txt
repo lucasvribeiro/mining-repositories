@@ -1,0 +1,8 @@
+\bjdbc:q\b
+\bpyq\b
+\bembedpy\b
+\bqConnection\b
+\bkhpu\b
+\bk\.h\b
+\b[Kk]db\b
+\bkx\.c\b
